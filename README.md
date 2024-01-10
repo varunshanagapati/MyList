@@ -10,8 +10,9 @@ This project is a simple TODO list application developed in Java, incorporating 
 
 Clone the project repository using the following command
 
-'''bash
+```bash
 git clone https://github.com/varunshanagapati/MyList
+```
 
 ### User Stories Performed:
   - As a user, I can add a new task with a title and description.
