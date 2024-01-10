@@ -11,8 +11,33 @@ This project is a simple TODO list application developed in Java, incorporating 
 Clone the project repository using the following command
 
 ```bash
-git clone https://github.com/varunshanagapati/MyList
+git clone https://github.com/varunshanagapati/MyList.git
 ```
+#### Sample Images
+<table>
+  <tr>
+    <th>
+      ToDo List
+    </th>
+    <th>
+      Add/Edit Task
+    </th>
+   
+  </tr>
+  <tr>
+    <td>
+      <img width="205" alt="pic1" src="https://github.com/varunshanagapati/MyList/blob/main/app/Assets/Image1.jpeg">
+
+    
+  <td>
+    <img width="205" alt="pic2" src="https://github.com/varunshanagapati/MyList/blob/main/app/Assets/Image2.jpeg">
+
+  </td>
+    
+  </tr>
+  
+</table>
+
 
 ### User Stories Performed:
   - As a user, I can add a new task with a title and description.
