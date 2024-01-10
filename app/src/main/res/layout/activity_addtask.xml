@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="16dp"
         android:text="Add Task."
-        android:textColor="@android:color/holo_purple"
+        android:textColor="@android:color/holo_green_light"
         android:textSize="24sp" />
 
     <ImageView
@@ -33,7 +33,7 @@
         android:padding="12dp"
         android:textSize="20sp"
         android:layout_below="@id/addNoteHeading"
-        android:background="@android:color/holo_purple"
+        android:background="@android:color/holo_green_light"
         android:layout_marginTop="16dp"
         android:maxLines="1" />
     <EditText
@@ -44,7 +44,7 @@
         android:gravity="top"
         android:padding="12dp"
         android:textSize="18sp"
-        android:background="@android:color/holo_purple"
+        android:background="@android:color/holo_green_light"
         android:layout_below="@id/titleEditText"
         android:layout_marginTop="12dp" />
 </RelativeLayout>
